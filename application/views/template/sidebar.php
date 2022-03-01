@@ -4,16 +4,16 @@
     </a>
     <ul class="navbar-nav d-flex flex-column mt-5 w-100">
         <li class="nav-item">
-            <a href="#" class="nav-link text-indigo-200"><i class="material-icons icon-blue me-2 m-2">dashboard</i>Dashboard</a>
+            <a href="#" class="nav-link text-indigo-200">Dashboard</a>
         </li>
         <li class="nav-item">
-            <a href="#" class="nav-link text-indigo-200"><i class="material-icons icon-blue me-2 m-2">laptop_mac</i>Lab</a>
+            <a href="#" class="nav-link text-indigo-200">Lab</a>
         </li>
         <li class="nav-item">
-            <a href="#" class="nav-link text-indigo-200"><i class="material-icons icon-blue me-2 m-2">book</i>Club</a>
+            <a href="#" class="nav-link text-indigo-200">Club</a>
         </li>
         <li class="nav-item">
-            <a href="#" class="nav-link text-indigo-200"><i class="material-icons icon-blue me-2 m-2">account_circle</i>Mahasiswa</a>
+            <a href="#" class="nav-link text-indigo-200">Mahasiswa</a>
         </li>
     </ul>
 </nav>
